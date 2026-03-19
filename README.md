@@ -62,6 +62,4 @@ To build a predictive model that estimates house prices accurately using regress
 
 ---
 
-## 👨‍💻 Author
-Harish S  
-GitHub: https://github.com/harish113658
+
